@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Generated chart outputs (recreated by the test scripts)
+results.png
+risk_results.png
+retirement_results.png
+
+# Streamlit secrets (never commit these)
+.streamlit/secrets.toml

@@ -1,0 +1,4 @@
+# Locks the dark theme so every visitor sees the look you liked.
+[theme]
+base = "dark"
+primaryColor = "#5a82ff"
